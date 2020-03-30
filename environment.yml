@@ -1,0 +1,8 @@
+name: aln-dm-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
